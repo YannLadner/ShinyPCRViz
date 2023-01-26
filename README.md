@@ -1,6 +1,7 @@
 # ShinyPCRViz
 Shiny app to visualize PCR data interactively
 
+<<<<<<< HEAD
 
 Go to the following webpage to see the web app in action:
 https://yannladner.shinyapps.io/ShinyPCRViz/
